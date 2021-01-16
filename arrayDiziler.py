@@ -8,4 +8,4 @@ print(krediler[2]) #üçüncü eleman
 print(len(krediler)) #length (uzunluk) yani dizide kaç karakter varsa onu gösteriyor.
 
 krediler[0] = "Cabuk kredi" #ilk elemanın adını değiştirdik
-print(krediler) #değişen ilk elemanı ekranda görmek için yazdırdık
+print(krediler) #değişen ilk elemanı ekranda görmek için yazdırdık.
